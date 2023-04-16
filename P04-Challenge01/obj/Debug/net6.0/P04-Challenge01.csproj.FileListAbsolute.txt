@@ -1,0 +1,15 @@
+C:\dev\formation_csharp\LearningCSharp\P04-Challenge01\bin\Debug\net6.0\P04-Challenge01.exe
+C:\dev\formation_csharp\LearningCSharp\P04-Challenge01\bin\Debug\net6.0\P04-Challenge01.deps.json
+C:\dev\formation_csharp\LearningCSharp\P04-Challenge01\bin\Debug\net6.0\P04-Challenge01.runtimeconfig.json
+C:\dev\formation_csharp\LearningCSharp\P04-Challenge01\bin\Debug\net6.0\P04-Challenge01.dll
+C:\dev\formation_csharp\LearningCSharp\P04-Challenge01\bin\Debug\net6.0\P04-Challenge01.pdb
+C:\dev\formation_csharp\LearningCSharp\P04-Challenge01\obj\Debug\net6.0\P04-Challenge01.csproj.AssemblyReference.cache
+C:\dev\formation_csharp\LearningCSharp\P04-Challenge01\obj\Debug\net6.0\P04-Challenge01.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\formation_csharp\LearningCSharp\P04-Challenge01\obj\Debug\net6.0\P04-Challenge01.AssemblyInfoInputs.cache
+C:\dev\formation_csharp\LearningCSharp\P04-Challenge01\obj\Debug\net6.0\P04-Challenge01.AssemblyInfo.cs
+C:\dev\formation_csharp\LearningCSharp\P04-Challenge01\obj\Debug\net6.0\P04-Challenge01.csproj.CoreCompileInputs.cache
+C:\dev\formation_csharp\LearningCSharp\P04-Challenge01\obj\Debug\net6.0\P04-Challenge01.dll
+C:\dev\formation_csharp\LearningCSharp\P04-Challenge01\obj\Debug\net6.0\refint\P04-Challenge01.dll
+C:\dev\formation_csharp\LearningCSharp\P04-Challenge01\obj\Debug\net6.0\P04-Challenge01.pdb
+C:\dev\formation_csharp\LearningCSharp\P04-Challenge01\obj\Debug\net6.0\P04-Challenge01.genruntimeconfig.cache
+C:\dev\formation_csharp\LearningCSharp\P04-Challenge01\obj\Debug\net6.0\ref\P04-Challenge01.dll

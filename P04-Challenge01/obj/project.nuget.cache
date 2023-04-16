@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "apBtOKQao3cbMlzNKzbUU84w4vrOu+9VfrGoYwzWHi+Xfr5J5Uz2uCEw/+wEocRScZUaeFbjH7+BKH4kVeHXvA==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\formation_csharp\\LearningCSharp\\P04-Challenge01\\P04-Challenge01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

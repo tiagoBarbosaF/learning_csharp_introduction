@@ -1,0 +1,15 @@
+C:\dev\formation_csharp\LearningCSharp\P03-Conditionals\bin\Debug\net6.0\P03-Conditionals.exe
+C:\dev\formation_csharp\LearningCSharp\P03-Conditionals\bin\Debug\net6.0\P03-Conditionals.deps.json
+C:\dev\formation_csharp\LearningCSharp\P03-Conditionals\bin\Debug\net6.0\P03-Conditionals.runtimeconfig.json
+C:\dev\formation_csharp\LearningCSharp\P03-Conditionals\bin\Debug\net6.0\P03-Conditionals.dll
+C:\dev\formation_csharp\LearningCSharp\P03-Conditionals\bin\Debug\net6.0\P03-Conditionals.pdb
+C:\dev\formation_csharp\LearningCSharp\P03-Conditionals\obj\Debug\net6.0\P03-Conditionals.csproj.AssemblyReference.cache
+C:\dev\formation_csharp\LearningCSharp\P03-Conditionals\obj\Debug\net6.0\P03-Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\formation_csharp\LearningCSharp\P03-Conditionals\obj\Debug\net6.0\P03-Conditionals.AssemblyInfoInputs.cache
+C:\dev\formation_csharp\LearningCSharp\P03-Conditionals\obj\Debug\net6.0\P03-Conditionals.AssemblyInfo.cs
+C:\dev\formation_csharp\LearningCSharp\P03-Conditionals\obj\Debug\net6.0\P03-Conditionals.csproj.CoreCompileInputs.cache
+C:\dev\formation_csharp\LearningCSharp\P03-Conditionals\obj\Debug\net6.0\P03-Conditionals.dll
+C:\dev\formation_csharp\LearningCSharp\P03-Conditionals\obj\Debug\net6.0\refint\P03-Conditionals.dll
+C:\dev\formation_csharp\LearningCSharp\P03-Conditionals\obj\Debug\net6.0\P03-Conditionals.pdb
+C:\dev\formation_csharp\LearningCSharp\P03-Conditionals\obj\Debug\net6.0\P03-Conditionals.genruntimeconfig.cache
+C:\dev\formation_csharp\LearningCSharp\P03-Conditionals\obj\Debug\net6.0\ref\P03-Conditionals.dll

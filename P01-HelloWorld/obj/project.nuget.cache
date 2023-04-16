@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HgaCURKribjrPEW6/j2dk3DhLvkMlNQ8zS5qkF9ANxA+GJUeaJFnQzuJn2SqU1WssHNQsGhlN4v3GnH96MBemA==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\formation_csharp\\LearningCSharp\\P01-HelloWorld\\P01-HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

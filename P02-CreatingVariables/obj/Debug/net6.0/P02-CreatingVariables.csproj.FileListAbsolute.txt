@@ -1,0 +1,15 @@
+C:\dev\formation_csharp\LearningCSharp\P02-CreatingVariables\bin\Debug\net6.0\P02-CreatingVariables.exe
+C:\dev\formation_csharp\LearningCSharp\P02-CreatingVariables\bin\Debug\net6.0\P02-CreatingVariables.deps.json
+C:\dev\formation_csharp\LearningCSharp\P02-CreatingVariables\bin\Debug\net6.0\P02-CreatingVariables.runtimeconfig.json
+C:\dev\formation_csharp\LearningCSharp\P02-CreatingVariables\bin\Debug\net6.0\P02-CreatingVariables.dll
+C:\dev\formation_csharp\LearningCSharp\P02-CreatingVariables\bin\Debug\net6.0\P02-CreatingVariables.pdb
+C:\dev\formation_csharp\LearningCSharp\P02-CreatingVariables\obj\Debug\net6.0\P02-CreatingVariables.csproj.AssemblyReference.cache
+C:\dev\formation_csharp\LearningCSharp\P02-CreatingVariables\obj\Debug\net6.0\P02-CreatingVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\formation_csharp\LearningCSharp\P02-CreatingVariables\obj\Debug\net6.0\P02-CreatingVariables.AssemblyInfoInputs.cache
+C:\dev\formation_csharp\LearningCSharp\P02-CreatingVariables\obj\Debug\net6.0\P02-CreatingVariables.AssemblyInfo.cs
+C:\dev\formation_csharp\LearningCSharp\P02-CreatingVariables\obj\Debug\net6.0\P02-CreatingVariables.csproj.CoreCompileInputs.cache
+C:\dev\formation_csharp\LearningCSharp\P02-CreatingVariables\obj\Debug\net6.0\P02-CreatingVariables.dll
+C:\dev\formation_csharp\LearningCSharp\P02-CreatingVariables\obj\Debug\net6.0\refint\P02-CreatingVariables.dll
+C:\dev\formation_csharp\LearningCSharp\P02-CreatingVariables\obj\Debug\net6.0\P02-CreatingVariables.pdb
+C:\dev\formation_csharp\LearningCSharp\P02-CreatingVariables\obj\Debug\net6.0\P02-CreatingVariables.genruntimeconfig.cache
+C:\dev\formation_csharp\LearningCSharp\P02-CreatingVariables\obj\Debug\net6.0\ref\P02-CreatingVariables.dll

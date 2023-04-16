@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rIBJQ7lPbNrlawH4xXWt6cXfpvI6k5u/8ws4+NeSZACIK/K99nLIOIIZatNM4kN9vndjDdVNPSnK4ulgYWGQvw==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\formation_csharp\\LearningCSharp\\P02-CreatingVariables\\P02-CreatingVariables.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

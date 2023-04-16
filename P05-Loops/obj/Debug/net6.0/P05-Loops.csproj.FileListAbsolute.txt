@@ -1,0 +1,15 @@
+C:\dev\formation_csharp\LearningCSharp\P05-Loops\bin\Debug\net6.0\P05-Loops.exe
+C:\dev\formation_csharp\LearningCSharp\P05-Loops\bin\Debug\net6.0\P05-Loops.deps.json
+C:\dev\formation_csharp\LearningCSharp\P05-Loops\bin\Debug\net6.0\P05-Loops.runtimeconfig.json
+C:\dev\formation_csharp\LearningCSharp\P05-Loops\bin\Debug\net6.0\P05-Loops.dll
+C:\dev\formation_csharp\LearningCSharp\P05-Loops\bin\Debug\net6.0\P05-Loops.pdb
+C:\dev\formation_csharp\LearningCSharp\P05-Loops\obj\Debug\net6.0\P05-Loops.csproj.AssemblyReference.cache
+C:\dev\formation_csharp\LearningCSharp\P05-Loops\obj\Debug\net6.0\P05-Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\formation_csharp\LearningCSharp\P05-Loops\obj\Debug\net6.0\P05-Loops.AssemblyInfoInputs.cache
+C:\dev\formation_csharp\LearningCSharp\P05-Loops\obj\Debug\net6.0\P05-Loops.AssemblyInfo.cs
+C:\dev\formation_csharp\LearningCSharp\P05-Loops\obj\Debug\net6.0\P05-Loops.csproj.CoreCompileInputs.cache
+C:\dev\formation_csharp\LearningCSharp\P05-Loops\obj\Debug\net6.0\P05-Loops.dll
+C:\dev\formation_csharp\LearningCSharp\P05-Loops\obj\Debug\net6.0\refint\P05-Loops.dll
+C:\dev\formation_csharp\LearningCSharp\P05-Loops\obj\Debug\net6.0\P05-Loops.pdb
+C:\dev\formation_csharp\LearningCSharp\P05-Loops\obj\Debug\net6.0\P05-Loops.genruntimeconfig.cache
+C:\dev\formation_csharp\LearningCSharp\P05-Loops\obj\Debug\net6.0\ref\P05-Loops.dll

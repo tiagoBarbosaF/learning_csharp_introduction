@@ -1,0 +1,15 @@
+C:\dev\formation_csharp\LearningCSharp\P01-HelloWorld\bin\Debug\net6.0\P01-HelloWorld.exe
+C:\dev\formation_csharp\LearningCSharp\P01-HelloWorld\bin\Debug\net6.0\P01-HelloWorld.deps.json
+C:\dev\formation_csharp\LearningCSharp\P01-HelloWorld\bin\Debug\net6.0\P01-HelloWorld.runtimeconfig.json
+C:\dev\formation_csharp\LearningCSharp\P01-HelloWorld\bin\Debug\net6.0\P01-HelloWorld.dll
+C:\dev\formation_csharp\LearningCSharp\P01-HelloWorld\bin\Debug\net6.0\P01-HelloWorld.pdb
+C:\dev\formation_csharp\LearningCSharp\P01-HelloWorld\obj\Debug\net6.0\P01-HelloWorld.csproj.AssemblyReference.cache
+C:\dev\formation_csharp\LearningCSharp\P01-HelloWorld\obj\Debug\net6.0\P01-HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\formation_csharp\LearningCSharp\P01-HelloWorld\obj\Debug\net6.0\P01-HelloWorld.AssemblyInfoInputs.cache
+C:\dev\formation_csharp\LearningCSharp\P01-HelloWorld\obj\Debug\net6.0\P01-HelloWorld.AssemblyInfo.cs
+C:\dev\formation_csharp\LearningCSharp\P01-HelloWorld\obj\Debug\net6.0\P01-HelloWorld.csproj.CoreCompileInputs.cache
+C:\dev\formation_csharp\LearningCSharp\P01-HelloWorld\obj\Debug\net6.0\P01-HelloWorld.dll
+C:\dev\formation_csharp\LearningCSharp\P01-HelloWorld\obj\Debug\net6.0\refint\P01-HelloWorld.dll
+C:\dev\formation_csharp\LearningCSharp\P01-HelloWorld\obj\Debug\net6.0\P01-HelloWorld.pdb
+C:\dev\formation_csharp\LearningCSharp\P01-HelloWorld\obj\Debug\net6.0\P01-HelloWorld.genruntimeconfig.cache
+C:\dev\formation_csharp\LearningCSharp\P01-HelloWorld\obj\Debug\net6.0\ref\P01-HelloWorld.dll
